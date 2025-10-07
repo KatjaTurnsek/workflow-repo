@@ -4,8 +4,20 @@ This repo serves as an example app for the purposes of demonstrating unit and en
 
 ## Headings
 
-### Subheading (H3)
+### Subheading
 
 - Bullet item one
 - Bullet item two
 - Bullet item three
+
+## Installation
+
+```bash
+npm install
+```
+
+**Run(dev)**
+
+```bash
+npm run dev
+```
